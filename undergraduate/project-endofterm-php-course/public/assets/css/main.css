@@ -1,0 +1,280 @@
+/* 基础样式重置 */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100%;
+    height: 100%;
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa; /* 轻微灰色背景 */
+}
+
+a {
+    text-decoration: none;
+    color: #0063ff; /* 主色调蓝色 */
+    transition: color 0.3s;
+}
+
+.button-group a {
+    background: #ededed;
+    border-radius: 8px;
+    padding: 8px 15px;
+    color: #0063ff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button-group a:hover {
+    background: #d8d8d8;
+    cursor: pointer;
+}
+
+.sticky-header {
+    background-color: rgba(255, 255, 255, 0.3);
+    backdrop-filter: blur(10px);
+    position: fixed;
+    top: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+    z-index: 1000;
+    transition: top 0.3s;
+    width: 100%;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.header-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    height: 20px;
+}
+
+.header-content nav {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header-content nav .button-group {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.header-content h1 {
+    color: #0063ff; /* 主色调蓝色 */
+    font-size: 1.5rem;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+}
+
+nav ul li {
+    margin: 0 15px;
+}
+
+nav ul li a:hover {
+    color: #3382ff; /* 鼠标悬停时的深蓝色 */
+}
+
+/* 主内容样式 */
+main {
+    padding: 2rem;
+}
+
+.intro {
+    margin-top: 50px;
+    text-align: center;
+    line-height: 1.6;
+}
+
+.intro h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    color: #0063ff; /* 主色调蓝色 */
+}
+
+.intro p {
+    color: #777777; /* 深灰色 */
+}
+
+footer {
+    text-align: center;
+    padding: 1rem;
+    background-color: rgba(255, 255, 255, 0.3);
+    backdrop-filter: blur(10px);
+    color: #777777; /* 深灰色 */
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+
+.study-room-card-section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.study-room-card {
+    max-width: 400px;
+    border-radius: 8px;
+    background-color: rgba(255, 255, 255, 0.3);
+    backdrop-filter: blur(10px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 20px;
+}
+
+.study-room-card .header {
+    background-color: #007bff;
+    color: #ffffff;
+    padding: 15px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.study-room-card .header .name {
+    font-size: 1.2rem;
+    margin: 0;
+}
+
+.study-room-card .header span {
+    font-size: 0.8rem;
+    background: #19ba4d;
+    border-radius: 8px;
+    padding: 5px;
+}
+
+.study-room-card .body {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.study-room-card .body span {
+    font-size: 0.8rem;
+    background: #da922b;
+    border-radius: 8px;
+    color: white;
+    padding: 5px;
+}
+
+.study-room-card .body .location, .study-room-card .body .time {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 1rem;
+    color: #6c757d;
+}
+
+.study-room-card .body .description {
+    font-size: 0.9rem;
+    color: #777777; /* 深灰色 */
+    line-height: 1.6;
+}
+
+.study-room-card .footer {
+    color: #777777; /* 深灰色 */
+    padding: 10px;
+    font-size: 0.8rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.study-room-card .footer .button-group {
+    display: flex;
+    gap: 0.5rem;
+}
+
+.study-room-card .footer span {
+    font-size: 0.8rem;
+    background: #ce2bda;
+    border-radius: 8px;
+    color: white;
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.reservation-list-section {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-top: 20px;
+}
+
+.reservation-list-section .reservation-list {
+    display: flex;
+    gap: 10px;
+    width: 100%;
+    justify-content: space-between;
+
+    border-radius: 8px;
+    background-color: rgba(255, 255, 255, 0.3);
+    backdrop-filter: blur(10px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 10px;
+}
+
+
+.login-section, .register-section {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.login-section .login-form, .register-section .register-form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    border-radius: 8px;
+    background-color: rgba(255, 255, 255, 0.3);
+    backdrop-filter: blur(10px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+}
+
+.login-section .login-form input, .register-section .register-form input {
+    border-radius: 8px;
+    padding: 5px;
+    font-size: 1rem;
+    border: none;
+}
+
+.login-section .login-form button[type="submit"], .register-section .register-form button[type="submit"] {
+    background-color: #19ba4d;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 1rem;
+    height: 2rem;
+}
+
+.login-section .login-form button[type="reset"], .register-section .register-form button[type="reset"] {
+    background-color: #e74c3c;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 1rem;
+    height: 2rem;
+}

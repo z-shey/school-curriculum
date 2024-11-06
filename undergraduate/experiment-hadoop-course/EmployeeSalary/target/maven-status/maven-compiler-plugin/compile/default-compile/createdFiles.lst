@@ -1,0 +1,17 @@
+shey\partition\SalaryTotalMapper.class
+shey\combine\SalaryTotalMain.class
+shey\partition\SalaryTotalPartitioner.class
+shey\partition\SalaryTotalReducer.class
+shey\serialization\SalaryTotalReducer.class
+shey\partition\SalaryTotalMain.class
+shey\average\SalaryTotalPartitioner.class
+shey\combine\SalaryTotalReducer.class
+shey\average\Employee.class
+shey\average\SalaryTotalMain.class
+shey\partition\Employee.class
+shey\serialization\Employee.class
+shey\combine\SalaryTotalMapper.class
+shey\serialization\SalaryTotalMapper.class
+shey\average\SalaryTotalReducer.class
+shey\average\SalaryTotalMapper.class
+shey\serialization\SalaryTotalMain.class

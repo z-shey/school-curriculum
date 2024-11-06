@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="09326999-c5db-4098-87aa-6bafc2a65b6f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../data-visualization-practice/mathematical-contest-in-modeling/C-local-run/2023年各农作物销售量.png" beforeDir="false" afterPath="$PROJECT_DIR$/../data-visualization-practice/mathematical-contest-in-modeling/C-local-run/2023年各农作物销售量.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data-visualization-practice/mathematical-contest-in-modeling/C-local-run/correlation_clustermap.png" beforeDir="false" afterPath="$PROJECT_DIR$/../data-visualization-practice/mathematical-contest-in-modeling/C-local-run/correlation_clustermap.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data-visualization-practice/mathematical-contest-in-modeling/C-local-run/correlation_heatmap_scatter.png" beforeDir="false" afterPath="$PROJECT_DIR$/../data-visualization-practice/mathematical-contest-in-modeling/C-local-run/correlation_heatmap_scatter.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data-visualization-practice/mathematical-contest-in-modeling/C-local-run/crop_type_area.png" beforeDir="false" afterPath="$PROJECT_DIR$/../data-visualization-practice/mathematical-contest-in-modeling/C-local-run/crop_type_area.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data-visualization-practice/mathematical-contest-in-modeling/C-local-run/merged_file_with_sales.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../data-visualization-practice/mathematical-contest-in-modeling/C-local-run/merged_file_with_sales.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data-visualization-practice/mathematical-contest-in-modeling/C-local-run/planting_area_by_crop.png" beforeDir="false" afterPath="$PROJECT_DIR$/../data-visualization-practice/mathematical-contest-in-modeling/C-local-run/planting_area_by_crop.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data-visualization-practice/mathematical-contest-in-modeling/C-local-run/plot_type_sales.png" beforeDir="false" afterPath="$PROJECT_DIR$/../data-visualization-practice/mathematical-contest-in-modeling/C-local-run/plot_type_sales.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data-visualization-practice/mathematical-contest-in-modeling/C-local-run/total_cost_by_crop.png" beforeDir="false" afterPath="$PROJECT_DIR$/../data-visualization-practice/mathematical-contest-in-modeling/C-local-run/total_cost_by_crop.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data-visualization-practice/mathematical-contest-in-modeling/C-local-run/total_sales_by_crop.png" beforeDir="false" afterPath="$PROJECT_DIR$/../data-visualization-practice/mathematical-contest-in-modeling/C-local-run/total_sales_by_crop.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data-visualization-practice/mathematical-contest-in-modeling/C-local-run/不同农作物的销售量折线图.png" beforeDir="false" afterPath="$PROJECT_DIR$/../data-visualization-practice/mathematical-contest-in-modeling/C-local-run/不同农作物的销售量折线图.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data-visualization-practice/mathematical-contest-in-modeling/C-local-run/亩产量与销售量的散点图.png" beforeDir="false" afterPath="$PROJECT_DIR$/../data-visualization-practice/mathematical-contest-in-modeling/C-local-run/亩产量与销售量的散点图.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data-visualization-practice/mathematical-contest-in-modeling/C-local-run/各农作物总销售量.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../data-visualization-practice/mathematical-contest-in-modeling/C-local-run/各农作物总销售量.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data-visualization-practice/mathematical-contest-in-modeling/C-local-run/年度成本_第1年.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../data-visualization-practice/mathematical-contest-in-modeling/C-local-run/年度成本_第1年.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data-visualization-practice/mathematical-contest-in-modeling/C-local-run/年度成本_第2年.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../data-visualization-practice/mathematical-contest-in-modeling/C-local-run/年度成本_第2年.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data-visualization-practice/mathematical-contest-in-modeling/C-local-run/年度成本_第3年.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../data-visualization-practice/mathematical-contest-in-modeling/C-local-run/年度成本_第3年.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data-visualization-practice/mathematical-contest-in-modeling/C-local-run/问题1.1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../data-visualization-practice/mathematical-contest-in-modeling/C-local-run/问题1.1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data-visualization-practice/mathematical-contest-in-modeling/C-local-run/问题1.2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../data-visualization-practice/mathematical-contest-in-modeling/C-local-run/问题1.2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data-visualization-practice/mathematical-contest-in-modeling/C-local-run/问题1_1/result.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../data-visualization-practice/mathematical-contest-in-modeling/C-local-run/问题1_1/result.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data-visualization-practice/mathematical-contest-in-modeling/C-local-run/问题2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../data-visualization-practice/mathematical-contest-in-modeling/C-local-run/问题2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data-visualization-practice/mathematical-contest-in-modeling/C-local-run/问题2/result.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../data-visualization-practice/mathematical-contest-in-modeling/C-local-run/问题2/result.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data-visualization-practice/mathematical-contest-in-modeling/C/Resolve1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../data-visualization-practice/mathematical-contest-in-modeling/C/Resolve1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data-visualization-practice/mathematical-contest-in-modeling/C/program_resolve_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/../data-visualization-practice/mathematical-contest-in-modeling/C/program_resolve_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data-visualization-practice/mathematical-contest-in-modeling/C/program_resolve_3_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../data-visualization-practice/mathematical-contest-in-modeling/C/program_resolve_3_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data-visualization-practice/mathematical-contest-in-modeling/C/拟合数据.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../data-visualization-practice/mathematical-contest-in-modeling/C/拟合数据.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data-visualization-practice/mathematical-contest-in-modeling/CD/merged_file_with_sales.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../data-visualization-practice/mathematical-contest-in-modeling/CD/merged_file_with_sales.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data-visualization-practice/mathematical-contest-in-modeling/CD/问题1.1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../data-visualization-practice/mathematical-contest-in-modeling/CD/问题1.1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data-visualization-practice/mathematical-contest-in-modeling/CD/问题1.2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../data-visualization-practice/mathematical-contest-in-modeling/CD/问题1.2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/cn/kluniv/selection/system/test/DBConnectionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/cn/kluniv/selection/system/test/DBConnectionTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2lnFfNj9o7hNcTO7yr2jUXx4c9D" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.general",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.cn.kluniv.selection.system.Main" />
+      <module name="java-exercises-student-selection-system" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.cn.kluniv.selection.system.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="09326999-c5db-4098-87aa-6bafc2a65b6f" name="Changes" comment="" />
+      <created>1725808035445</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725808035445</updated>
+      <workItem from="1725808036589" duration="410000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

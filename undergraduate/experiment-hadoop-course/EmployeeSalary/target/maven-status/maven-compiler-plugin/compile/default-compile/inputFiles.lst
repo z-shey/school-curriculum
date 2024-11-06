@@ -1,0 +1,17 @@
+D:\Workspace\Projects\code-practice\java-practice\hadoop-practice\EmployeeSalary\src\main\java\shey\partition\SalaryTotalPartitioner.java
+D:\Workspace\Projects\code-practice\java-practice\hadoop-practice\EmployeeSalary\src\main\java\shey\serialization\Employee.java
+D:\Workspace\Projects\code-practice\java-practice\hadoop-practice\EmployeeSalary\src\main\java\shey\combine\SalaryTotalMapper.java
+D:\Workspace\Projects\code-practice\java-practice\hadoop-practice\EmployeeSalary\src\main\java\shey\partition\SalaryTotalMapper.java
+D:\Workspace\Projects\code-practice\java-practice\hadoop-practice\EmployeeSalary\src\main\java\shey\average\SalaryTotalMapper.java
+D:\Workspace\Projects\code-practice\java-practice\hadoop-practice\EmployeeSalary\src\main\java\shey\average\SalaryTotalReducer.java
+D:\Workspace\Projects\code-practice\java-practice\hadoop-practice\EmployeeSalary\src\main\java\shey\combine\SalaryTotalMain.java
+D:\Workspace\Projects\code-practice\java-practice\hadoop-practice\EmployeeSalary\src\main\java\shey\serialization\SalaryTotalMain.java
+D:\Workspace\Projects\code-practice\java-practice\hadoop-practice\EmployeeSalary\src\main\java\shey\partition\SalaryTotalReducer.java
+D:\Workspace\Projects\code-practice\java-practice\hadoop-practice\EmployeeSalary\src\main\java\shey\combine\SalaryTotalReducer.java
+D:\Workspace\Projects\code-practice\java-practice\hadoop-practice\EmployeeSalary\src\main\java\shey\serialization\SalaryTotalReducer.java
+D:\Workspace\Projects\code-practice\java-practice\hadoop-practice\EmployeeSalary\src\main\java\shey\average\SalaryTotalPartitioner.java
+D:\Workspace\Projects\code-practice\java-practice\hadoop-practice\EmployeeSalary\src\main\java\shey\serialization\SalaryTotalMapper.java
+D:\Workspace\Projects\code-practice\java-practice\hadoop-practice\EmployeeSalary\src\main\java\shey\partition\SalaryTotalMain.java
+D:\Workspace\Projects\code-practice\java-practice\hadoop-practice\EmployeeSalary\src\main\java\shey\average\Employee.java
+D:\Workspace\Projects\code-practice\java-practice\hadoop-practice\EmployeeSalary\src\main\java\shey\average\SalaryTotalMain.java
+D:\Workspace\Projects\code-practice\java-practice\hadoop-practice\EmployeeSalary\src\main\java\shey\partition\Employee.java
